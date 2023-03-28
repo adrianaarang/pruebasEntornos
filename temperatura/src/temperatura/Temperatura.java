@@ -25,7 +25,7 @@ public class Temperatura {
 		} else
 			temperatura = 4.0 / 5.0 * celsius;
 		
-		System.out.println("prueba commit");
+		System.out.println("prueba commit2");
 		return temperatura	;
 	}
 	
