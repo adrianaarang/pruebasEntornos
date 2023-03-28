@@ -24,7 +24,9 @@ public class Temperatura {
 			System.out.println("Temperatura incorrecta");
 		} else
 			temperatura = 4.0 / 5.0 * celsius;
+		
+		System.out.println("prueba commit");
 		return temperatura	;
-
 	}
+	
 }
